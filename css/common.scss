@@ -1,3 +1,5 @@
+@charset "UTF-8";
+@import 'sassConfig.scss';
 .color-main {
     color: #4ac1ae;
 }
@@ -7,5 +9,5 @@
 }
 
 .text-main {
-    color: #010101;
+    color: $aaaa;
 }
